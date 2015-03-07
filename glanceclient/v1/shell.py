@@ -18,6 +18,7 @@ from __future__ import print_function
 import copy
 import functools
 import os
+import sys
 import six
 
 from oslo_utils import encodeutils
